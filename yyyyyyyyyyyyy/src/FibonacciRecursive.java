@@ -24,8 +24,6 @@ public class FibonacciRecursive {
 		
 		System.out.println("value for item number 6: " + fibonacciRecur(6));
 		System.out.println("value for item number 6: " + fibonacci(6));
-		System.out.println("value for item number 6: " + fibonacci(1));
-
 		
 	}
 }
